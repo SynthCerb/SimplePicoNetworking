@@ -10,3 +10,5 @@ To do:
 - Non blocking listen
 - Clean up
 - Bunch of stuff probably
+
+Pico sdk used: 1.5.0
